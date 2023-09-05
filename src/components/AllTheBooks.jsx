@@ -1,4 +1,4 @@
-import { Card, Container, Row } from "react-bootstrap";
+import { Container } from "react-bootstrap";
 import BookGenreRow from "./BookGenreRow";
 
 import fantasyBooks from "../data/fantasy.json";
